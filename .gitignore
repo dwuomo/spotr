@@ -1,0 +1,4 @@
+/vendor
+/environments/.env
+/.idea
+/.swp
